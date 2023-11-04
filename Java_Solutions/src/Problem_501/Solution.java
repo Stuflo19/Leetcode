@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 // Definition for a binary tree node.
- private class TreeNode {
+ class TreeNode {
       int val;
       TreeNode left;
       TreeNode right;

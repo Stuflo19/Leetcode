@@ -1,6 +1,6 @@
 package Problem_2265;
 
-public class TreeNode {
+class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;
